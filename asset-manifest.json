@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hudson/static/css/main.e2126890.css",
+    "main.js": "/hudson/static/js/main.494bbc58.js",
+    "static/js/453.15d5dd85.chunk.js": "/hudson/static/js/453.15d5dd85.chunk.js",
+    "index.html": "/hudson/index.html",
+    "main.e2126890.css.map": "/hudson/static/css/main.e2126890.css.map",
+    "main.494bbc58.js.map": "/hudson/static/js/main.494bbc58.js.map",
+    "453.15d5dd85.chunk.js.map": "/hudson/static/js/453.15d5dd85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2126890.css",
+    "static/js/main.494bbc58.js"
+  ]
+}
